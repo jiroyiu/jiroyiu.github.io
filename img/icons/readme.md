@@ -38,4 +38,4 @@
 
 [![sunny.png](./sunny.png)](http://jiroyiu.github.io/img/icons/sunny.png)
 
-[![tickbox.png](./tickbox.png)](http://jiroyiu.github.io/img/icons/tickbox.png)
+[![tickBox.png](./tickBox.png)](http://jiroyiu.github.io/img/icons/tickBox.png)
